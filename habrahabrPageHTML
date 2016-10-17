@@ -3,5 +3,7 @@
 <head>
     <meta charset=utf-8>
     <title>Перевод книги &laquo;Выразительный Javascript&raquo; в pdf / Хабрахабр</title>
+    <meta name="description" content="Хабр, привет. Не так давно SLY_G опубликовал цикл переводов ниги Eloquent Javascript (за что ему большое спасибо). В комментариях раз за разом поднимались вопросы о сборке переводов...">
+    <meta name="keywords" content="eloquent javascript, книга, javascript, книги по программированию">
 </head>
 </html>
