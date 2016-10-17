@@ -46,6 +46,65 @@
             </form>
         </section>
     </header>
+    <aside>
+        <h1 hidden>sidebar</h1>
+        <section>
+            <h1 hidden>advertising</h1>
+            <p>Реклама помогает поддерживать и развивать наши сервисы</p>
+            <form action="#" method="get">
+                <input type="submit" value="Подробнее">
+            </form>
+            <h1>Реклама</h1>
+        </section>
+        <section>
+            <h1 hidden>hubs</h1>
+            <dl>
+                <dt><strong>Хабы</strong>
+                <dd><a href="#">Программирование</a>
+                <dd><a href="#">Алгоритмы</a>
+                <dd><a href="#">Машинное обучение</a>
+                <dd><a href="#"><em>Java</em></a>
+                <dd><a href="#"><em>JavaScript</em></a>
+                <dd><a href="#">Разработка под <em>Linux</em></a>
+                <dd><a href="#">Функциональное программирование</a>
+                <dd><a href="#">Профессиональная литература</a>
+                <dd><a href="#">Математика</a>
+                <dd><a href="#">Занимательные задачки</a>
+                <dd><a href="#"><small>Все хабы</small></a>
+            </dl>
+        </section>
+        <section>
+            <h1><strong>Что обсуждают</strong></h1>
+            <ul>
+                <li><a href="#"><strong>Сейчас</strong></a>
+                <li><a href="#">Вчера</a>
+                <li><a href="#">Неделя</a>
+                <li><a href="#">Месяц</a>
+            </ul>
+            <ul>
+                <li>
+                    <section>
+                        <h1><a href="#" target=_blank>Почему я как разработчик ненавижу <em>iOS</em></a></h1>
+                        <a href="#" target=_blank><img src="#" alt="commented"><span>416</span></a>
+                    </section>
+                <li>
+                    <section>
+                        <h1><a href="#" target=_blank>Закат <em>Stack Overflow</em></a></h1>
+                        <a href="#" target=_blank><img src="#" alt="commented"><span>374</span></a>
+                    </section>
+                <li>
+                    <section>
+                        <h1><a href="#" target=_blank>Серия интерфейсных обновлений «Хабрахабра» и <em>Geektimes</em></a></h1>
+                        <a href="#" target=_blank><img src="#" alt="commented"><span>369</span></a>
+                    </section>
+                <li>
+                    <section>
+                        <h1><a href="#" target=_blank>Наследование реализаций: закопайте стюардессу</a></h1>
+                        <a href="#" target=_blank><img src="#" alt="commented"><span>349</span></a>
+                    </section>
+            </ul>
+        </section>
+    </aside>
     <main>
         <article>
             <header>
