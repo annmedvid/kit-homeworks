@@ -255,6 +255,45 @@
                 <!--next 4 list items are the same-->
             </ul>
         </aside>
+        <article>
+            <h1>Интересные публикации</h1>
+            <form action="#">
+                <input type="checkbox" value="Хабрахабр" checked>
+                <input type="checkbox" value="Гиктаймс" checked>
+            </form>
+            <ul>
+                <li>
+                    <section>
+                        <img src="#" alt="GT">
+                        <a href="#" target=_blank>История гаджетов Motorola</a>
+                        <a href="#" target=_blank><img src="#" alt="comments"><span>1</span></a>
+                    </section>
+                <li>
+                    <section>
+                        <img src="#" alt="GT">
+                        <a href="#" target=_blank>ExoMars выходит на орбиту Марса, Schiaparelli готовится к посадке</a>
+                        <a href="#" target=_blank><img src="#" alt="comments"><span>0</span></a>
+                    </section>
+                <li>
+                    <section>
+                        <img src="#" alt="HB">
+                        <a href="#" target=_blank>Кремлевские девойки</a>
+                        <a href="#" target=_blank><img src="#" alt="comments"><span>6</span></a>
+                    </section>
+                <li>
+                    <section>
+                        <img src="#" alt="GT">
+                        <a href="#" target=_blank>Физика в мире животных: морские черепахи и их &laquo;компас&raquo;</a>
+                        <a href="#" target=_blank><img src="#" alt="comments"><span>2</span></a>
+                    </section>
+                <li>
+                    <section>
+                        <img src="#" alt="HB">
+                        <a href="#" target=_blank>Готовим многопоточность с core.async</a>
+                        <a href="#" target=_blank><img src="#" alt="comments"><span>6</span></a>
+                    </section>
+            </ul>
+        </article>
     </main>
 </body>
 </html>
