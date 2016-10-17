@@ -7,6 +7,22 @@
     <meta name="keywords" content="eloquent javascript, книга, javascript, книги по программированию">
 </head>
 <body>
+    <aside>
+        <ul>
+            <li><a href="#">TM Feed</a>
+            <li><a href="#">Хабрахабр</a>
+            <li><a href="#">Geektimes</a>
+            <li><a href="#">Тостер</a>
+            <li><a href="#">Мой круг</a>
+            <li><a href="#">Фрилансим</a>
+        </ul>
+        <span>Спецпроекты:</span>
+        <ul>
+            <li><a href="#">Карта &laquo;Мир&raquo;</a>
+            <li><a href="#">HP Spectre</a>
+            <li><a href="#">ВИК.Нано</a>
+        </ul>
+    </aside>
     <header>
         <nav>
             <h1><a href=/ >Хабрахабр</a></h1>
