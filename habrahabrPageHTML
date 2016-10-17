@@ -45,5 +45,187 @@
             </form>
         </section>
     </header>
+    <main>
+        <article>
+            <header>
+                <article>
+                    <header>
+                        <h1 hidden>about user</h1>
+                        <img src="#" alt="avatar">
+                        <h1><a href="#">Антон Кармазин</a></h1>
+                        <h1><a href="#">@kriptomen</a></h1>
+                        <h1>Пользователь</h1>
+                        <h1><a href="#">Github</a></h1>
+                        <span><small>карма</small></span>
+                        <span>39,0</span>
+                        <span><small>рейтинг</small></span>
+                        <span>0,0</span>
+                    </header>
+                    <aside>
+                        <ul>
+                            <li><a href="#"><span>Профиль</span><img src="#" alt="logo"></a>
+                            <li><a href="#"><span>Публикации</span><span>19</span></a>
+                            <li><a href="#"><span>Комментарии</span><span>266</span></a>
+                            <li><a href="#"><span>Избранное</span>44<span></span></a>
+                            <li><a href="#"><span>Подписки</span>17<span></span></a>
+                        </ul>
+                    </aside>
+                </article>
+                <section>
+                    <h1 hidden>article details</h1>
+                    <time datetime="2015-03-15T14:59:00Z">15 марта 2015 в 14:59</time>
+                    <h1><a href="#">Разработка</a> &rarr; Перевод книги «Выразительный Javascript» в pdf</h1>
+                    <ul>
+                        <li><img src="#" alt="tags">
+                        <li><a href="#">Программирование*</a>
+                        <li><a href="#">Разработка веб-сайтов*</a>
+                        <li><a href="#">JavaScript*</a>
+                    </ul>
+                </section>
+            </header>
+            <section>
+                <h1 hidden>main article</h1>
+                <img src="#" alt="poster">
+                <p>Хабр, привет.</p>
+                <p>Не так давно <a href="#">SLY_G</a> опубликовал цикл переводов книги <mark>Eloquent Javascript</mark> (за что ему большое спасибо). В комментариях раз за разом поднимались вопросы о сборке переводов книги, что, собственно, я и сделал при помощи сервиса <em>Gitbook</em> — <a href="#">&laquo;Выразительный Javascript&raquo;</a>, pdf, ePub, mobi и онлайн версия.</p>
+                <p><a href="#">Репозитарий книги</a>, pull requests принимаются.</p>
+                <p>Немного хотел бы сказать о процессе подготовки книги при помощи сервиса <em>Gitbook</em>. Весь материал брался на основе <a href="#">постов</a> с хабра — скачал их все, вытащил содержимое немного работы регулярками и инструментом замены текста для преобразования <em>HTML</em> в <em>Markdown</em> (к сожалению не нашел готовых инструментов, которые так делают), перевел обложку и вуаля. Сервис <em>Gitbook</em> делает все остальное.</p>
+                <p>Приятного чтения.</p>
+            </section>
+            <section>
+                <h1 hidden>download info</h1>
+                <ul>
+                    <li><a href="#" download="#">Скачать в ePUB</a>
+                    <li><a href="#" download="#">Скачать в PDF</a>
+                    <li><a href="#" download="#">Читать онлайн</a>
+                </ul>
+            </section>
+            <section>
+                <h1 hidden>tags</h1>
+                <ul>
+                    <li><img src="#" alt="tags">
+                    <li><a href="#">eloquent javascript,</a>
+                    <li><a href="#">книга</a>
+                    <li><a href="#">javascript</a>
+                    <li><a href="#">книги по программированию</a>
+                </ul>
+            </section>
+            <article>
+                <h1 hidden>user one more time</h1>
+                <header>
+                    <h1 hidden>statistics and share</h1>
+                    <form>
+                        <button><img src="#" alt="up"></button>
+                        <span>+81</span>
+                        <button><img src="#" alt="down"></button>
+                    </form>
+                    <ul>
+                        <li>
+                            <img src="#" alt="looked">
+                            <span>79,2K</span>
+                        <li>
+                            <img src="#" alt="liked">
+                            <span>732</span>
+                    </ul>
+                    <ul>
+                        <li><a href="#"><img src="#" alt="twitter" title="Опубликовать ссылку в Twitter"></a>
+                        <li><a href="#"><img src="#" alt="vk" title="Опубликовать ссылку во ВКонтакте"></a>
+                        <li><a href="#"><img src="#" alt="facebook" title="Опубликовать ссылку в Facebook"></a>
+                        <li><a href="#"><img src="#" alt="Pocket" title=" Добавить ссылку в Pocket"></a>
+                    </ul>
+                </header>
+                <section>
+                    <h1 hidden>about user</h1>
+                    <img src="#" alt="avatar">
+                    <h1><a href="#">Антон Кармазин</a></h1>
+                    <h1><a href="#">@kriptomen</a></h1>
+                    <h1>Пользователь</h1>
+                    <h1><a href="#">Github</a></h1>
+                    <span><small>карма</small></span>
+                    <span>39,0</span>
+                    <span><small>рейтинг</small></span>
+                    <span>0,0</span>
+                </section>
+                <footer>
+                    <h1 hidden>advertasing</h1>
+                    <p>Реклама помогает поддерживать и развивать наши сервисы</p>
+                    <form action="#" method="get">
+                        <input type="submit" value="Подробнее">
+                    </form>
+                    <h1>Реклама</h1>
+                </footer>
+            </article >
+            <section> <!--comments-->
+                <h1>Комментарии (3)</h1>
+                <article>
+                    <h1 hidden>first comment</h1>
+                    <header>
+                        <h1 hidden>author of comment</h1>
+                        <img src="#" alt="avatar">
+                        <h1><a href="#"> kriptomen</a></h1>
+                        <time datetime="2015-03-15T15:06:00Z">15 марта 2015 в 15:06</time>
+                        <a href="#"><img src="#" alt="ссылка" title="ссылка на комментарий"></a>
+                        <span>+9</span>
+                        <form>
+                            <button><img src="#" alt="up"></button>
+                            <button><img src="#" alt="down"></button>
+                        </form>
+                    </header>
+                    <section>
+                        <h1 hidden>text of comment</h1>
+                        <p><a href="#">@AxisPod</a>, <a href="#">@Dobrii</a>, <a href="#">@denysd</a>, <a href="#">@paco OnYourLips</a>, Товарищи, вы в комментариях спрашивали о pdf версии. Дабы вы не пропустили — упомянул вас.</p>
+                    </section>
+                    <section>
+                        <h1 hidden>comments on comment</h1>
+                        <article>
+                            <h1 hidden>comment</h1>
+                            <header>
+                                <h1 hidden>author of comment</h1>
+                                <img src="#" alt="avatar">
+                                <h1><a href="#">Dobrii</a></h1>
+                                <time datetime="2015-03-15T15:25:00Z">15 марта 2015 в 15:25</time>
+                                <a href="#"><img src="#" alt="ссылка" title="ссылка на комментарий"></a>
+                                <a href="#"><img src="#" alt="ссылка" title="показать ветку комментариев"></a>
+                                <a href="#"><img src="#" alt="ссылка" title="показать предыдущий комментарий"></a>
+                                <span>0</span>
+                                <form>
+                                    <button><img src="#" alt="up"></button>
+                                    <button><img src="#" alt="down"></button>
+                                </form>
+                            </header>
+                            <section>
+                                <h1 hidden>text of comment</h1>
+                                <p>Спасибо :)</p>
+                            </section>
+                        </article>
+                        <article>
+                            <h1 hidden>comment</h1>
+                            <header>
+                                <h1 hidden>author of comment</h1>
+                                <img src="#" alt="avatar">
+                                <h1><a href="#">denysd</a></h1>
+                                <time datetime="2015-03-15T16:41:00Z">15 марта 2015 в 16:41</time>
+                                <a href="#"><img src="#" alt="ссылка" title="ссылка на комментарий"></a>
+                                <a href="#"><img src="#" alt="ссылка" title="показать ветку комментариев"></a>
+                                <a href="#"><img src="#" alt="ссылка" title="показать предыдущий комментарий"></a>
+                                <span>0</span>
+                                <form>
+                                    <button><img src="#" alt="up"></button>
+                                    <button><img src="#" alt="down"></button>
+                                </form>
+                            </header>
+                            <section>
+                                <h1 hidden>text of comment</h1>
+                                <p>Огромное спасибо! Уже печатаю)</p>
+                            </section>
+                        </article>
+                    </section>
+                </article>
+                <article>
+                    <!--more comments-->
+                </article>
+            </section>
+        </article>
+    </main>
 </body>
 </html>
