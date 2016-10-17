@@ -355,5 +355,10 @@
             </ul>
         </article>
     </main>
+    <aside>
+        <h1>Яндекс.Директ</h1>
+        <!--yandex banner-->
+        <h1><small>Реклама</small></h1>
+    </aside>
 </body>
 </html>
