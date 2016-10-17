@@ -6,4 +6,28 @@
     <meta name="description" content="Хабр, привет. Не так давно SLY_G опубликовал цикл переводов ниги Eloquent Javascript (за что ему большое спасибо). В комментариях раз за разом поднимались вопросы о сборке переводов...">
     <meta name="keywords" content="eloquent javascript, книга, javascript, книги по программированию">
 </head>
+<body>
+    <header>
+        <nav>
+            <h1><a href=/ >Хабрахабр</a></h1>
+            <ul>
+                <li><a href="#">Публикации</a>
+                <li><a href="#">Хабы</a>
+                <li><a href="#">Компании</a>
+                <li><a href="#">Пользователи</a>
+                <li><a href="#">Песочница</a>
+            </ul>
+        </nav>
+        <section>
+            <h1 hidden>search and register</h1>
+            <form action="#" method="get">
+                <input type="text" name="search" placeholder="search">
+            </form>
+            <form action="#" method="post">
+                <input type="submit" value="Войти">
+                <input type="submit" value="Регистрация">
+            </form>
+        </section>
+    </header>
+</body>
 </html>
