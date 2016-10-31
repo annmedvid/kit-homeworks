@@ -3,7 +3,41 @@
 <head>
     <title>table</title>
     <style>
-        table, thead tr, col {border-collapse: collapse; border: solid thin; }
+        @font-face {
+            font-family: "Essays1743";
+            src: url(Essays1743.ttf);
+        }
+        table {
+            font-family: "Essays1743", serif;
+            margin-left: 6em;
+        }
+        th {
+            font-weight: normal;
+        }
+        table, thead tr, col {
+            border-collapse: collapse;
+            border: solid thin;
+        }
+        thead {
+            text-align: center;
+        }
+        tbody tr:first-child th, tbody tr:first-child td {
+            padding-top: 0.5em;
+        }
+        tbody tr:last-child th, tbody tr:last-child td {
+            padding-bottom: 1.5em;
+        }
+        tbody th, tbody td {
+            padding-left: 2em;
+            width: 7em;
+        }
+        tbody th {
+            text-align: left;
+            padding-right: 4em;
+        }
+        tbody th + td {
+            padding-right: 6em;
+        }
     </style>
 </head>
 <body>
