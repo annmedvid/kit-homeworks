@@ -1,3 +1,3 @@
 # kit-homeworks
 
-**This's repository for my training**
+**You can find here some drafts and study projects**
