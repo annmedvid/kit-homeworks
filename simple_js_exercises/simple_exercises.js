@@ -30,3 +30,17 @@ for (var i = 0; i < arr.length; i++) {
 }
 
 console.log(sum)
+
+//string compare
+function stringCompare(stringFirst, stringSecond) {
+	var res = {}
+
+	for (var i = 0; i < stringFirst.length; i++) {
+		if (stringFirst[i] == stringSecond[i]) res[i] = true
+		else res[i] = false
+	}
+
+	return res
+}
+
+stringCompare("abcd", "sbcf")
