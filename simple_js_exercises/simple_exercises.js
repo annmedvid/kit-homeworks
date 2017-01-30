@@ -44,3 +44,12 @@ function stringCompare(stringFirst, stringSecond) {
 }
 
 stringCompare("abcd", "sbcf")
+
+//RegExp
+function addArticle(str) {
+	if (/[aieouy]/.test(str[0])) return `an ${str}`
+	return `a ${str}`
+}
+
+addArticle(`function`) //`a function`
+addArticle(`object`) //`an object`
