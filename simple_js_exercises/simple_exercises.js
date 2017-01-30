@@ -53,3 +53,8 @@ function addArticle(str) {
 
 addArticle(`function`) //`a function`
 addArticle(`object`) //`an object`
+
+//RegExp
+/\.s[ac]ss$/igm
+.scss
+.sass
