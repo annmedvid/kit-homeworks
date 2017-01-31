@@ -47,7 +47,7 @@ stringCompare("abcd", "sbcf")
 
 //RegExp
 function addArticle(str) {
-	if (/[aieouy]/.test(str[0])) return `an ${str}`
+	if (/^[aieouy]/.test(str)) return `an ${str}`
 	return `a ${str}`
 }
 
@@ -55,6 +55,6 @@ addArticle(`function`) //`a function`
 addArticle(`object`) //`an object`
 
 //RegExp
-/\.s[ac]ss$/igm
+/\.s[ac]ss$/i
 .scss
 .sass
